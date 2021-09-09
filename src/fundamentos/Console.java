@@ -16,7 +16,7 @@ public class Console {
 		System.out.printf("Nome:  %s%n", "João");
 		
 		
-		int a = 3;
+
 		Scanner entrada = new Scanner(System.in);
 		
 		System.out.print("Digite o seu nome: ");

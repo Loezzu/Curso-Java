@@ -31,6 +31,6 @@ public class Inferencia {
 
     var f = 12; //inteiro
     // f = 12.01;
-
+    System.out.println(f);
   }
 }
