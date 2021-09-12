@@ -8,7 +8,6 @@ public class NotacaoPonto {
     s = s.toUpperCase();
     s = s.concat("!!!");
 
-
     System.out.println(s);
 
     String x = "Leo".toUpperCase();
