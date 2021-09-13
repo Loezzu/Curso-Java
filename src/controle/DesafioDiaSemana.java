@@ -28,5 +28,7 @@ public class DesafioDiaSemana {
     } else {
       System.out.println("dia inválido");
     }
+    
+    ler.close();
   }
 }
