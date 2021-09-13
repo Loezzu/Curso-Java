@@ -10,7 +10,7 @@ public class For1 {
 	    }
 	    
 	    
-	    //laço infinito !!!
+	    //la?o infinito !!!
 //	    for(;;) {
 //	    	System.out.println("fim!");
 //	    }

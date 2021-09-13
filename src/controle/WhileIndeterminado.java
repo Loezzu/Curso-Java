@@ -11,7 +11,7 @@ public class WhileIndeterminado {
 		String valor = "";
 		
 		while(!valor.equalsIgnoreCase("sair")) {
-			System.out.print("você diz: ");
+			System.out.print("vocï¿½ diz: ");
 			valor = entrada.nextLine();
 		}
 		
