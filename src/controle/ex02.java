@@ -2,7 +2,7 @@ package controle;
 
 import java.util.Scanner;
 
-public class ex02 {
+public class Ex02 {
 
   public static void main(String[] args) {
 
@@ -16,5 +16,7 @@ public class ex02 {
     } else {
       System.out.printf("O ano %d não é Bissexto", ano);
     }
+    
+    ler.close();
   }
 }

@@ -2,7 +2,7 @@ package controle;
 
 import java.util.Scanner;
 
-public class ex01 {
+public class Ex01 {
 
   public static void main(String[] args) {
 
@@ -18,6 +18,8 @@ public class ex01 {
     } else {
       System.out.println("numero inválido");
     }
+    
+    ler.close();
 
   }
 }
