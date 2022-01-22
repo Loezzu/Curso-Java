@@ -2,7 +2,7 @@ package oo.heranca.desafio;
 
 public class Opala extends Carro {
 
-    Opala() {
+    public Opala() {
         super(250);
     }
 
