@@ -15,6 +15,9 @@ public class CarroTeste {
         ferrari.ligarTurbo();
         ferrari.ligarAr();
         ferrari.desligarAr();
+
+        System.out.println(ferrari.velocidadeDoAr());
+
         ferrari.acelerar();
         ferrari.frear();
 
